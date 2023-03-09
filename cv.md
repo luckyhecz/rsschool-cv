@@ -21,7 +21,7 @@ function multiply(a, b){
 ```
 ## Experience
 **Single page**
-[Link](https://github.com/luckyhecz/module5.git)
+[Link](https://luckyhecz.github.io/module5/)
 ## Education
 * **University**: Belarussian State University, mathematics and specialist of information technologies
 * **Courses**: 
